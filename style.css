@@ -81,10 +81,10 @@ button {
   color: white;
 }
 .randomButton {
-  background: linear-gradient(0.25turn, #f65cfc, #ebf8e1, #583cf6);
+  background: linear-gradient(0.25turn, #27edf1, #ebf8e1, #3cf652);
 }
 .randomButton:hover {
-  background: linear-gradient(0.25turn, #20ff02, #ebf8e1, #aecc03);
+  background: linear-gradient(0.25turn, #5a78c4, #ebf8e1, #c16e1c);
 }
 .erasorButton {
   background-color: rgb(255, 255, 255);
